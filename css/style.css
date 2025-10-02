@@ -2,3 +2,10 @@
     width: 40px;
     display: inline-block;
 }
+ul:hover {
+    color: #ff0000;
+}
+nav {
+    background-color: #a6a6a6;
+    padding: 10px;
+}
